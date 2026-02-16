@@ -1,0 +1,7 @@
+{
+  "name": "VoxHealth",
+  "description": "AI-powered medical vocal screening application using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
